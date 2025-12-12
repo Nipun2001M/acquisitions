@@ -1,0 +1,9 @@
+{"level":"info","message":"Hello From Acquistions","service":"user-service"}
+{"level":"info","message":"Hello From Acquistions","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:07:42:28 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"Hello From Acquistions","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:07:56:28 +0000] \"GET / HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:07:57:03 +0000] \"GET /api/ HTTP/1.1\" 200 40 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:07:57:15 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:07:57:31 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:07:57:38 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
