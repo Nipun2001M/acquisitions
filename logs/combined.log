@@ -40,3 +40,82 @@
 {"level":"info","message":"User nm1@gmail.com authenticated successfully","service":"user-service"}
 {"level":"info","message":"User signed in successfully: nm1@gmail.com","service":"user-service"}
 {"level":"info","message":"::1 - - [12/Dec/2025:12:00:57 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 108 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:24:23 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:27:14 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:27:39 +0000] \"GET / HTTP/1.1\" 400 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:28:27 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:28:51 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:29:42 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:29:43 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:30:32 +0000] \"GET / HTTP/1.1\" 400 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:33:51 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:33:52 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:34:28 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:35:36 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:36:22 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:36:23 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:37:58 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:38:41 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:38:42 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"User nm1@gmail.com authenticated successfully","service":"user-service"}
+{"level":"info","message":"User signed in successfully: nm1@gmail.com","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:39:08 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 108 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:39:17 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:39:22 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:39:24 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:39:51 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:40:14 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:42:40 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request Blocked","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:46:06 +0000] \"GET /health HTTP/1.1\" 400 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:50:08 +0000] \"GET /health HTTP/1.1\" 500 89 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:50:10 +0000] \"GET /health HTTP/1.1\" 500 89 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:50:14 +0000] \"GET /health HTTP/1.1\" 500 89 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:50:25 +0000] \"GET /health HTTP/1.1\" 500 89 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:50:51 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:50:54 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:51:27 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:51:33 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:51:34 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:51:39 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:51:42 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:51:43 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:52:46 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:04 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:08 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:12 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:15 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:18 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:20 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:22 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:35 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:41 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:43 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"user-service","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:53:47 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\"","service":"user-service"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"user-service","userAgent":"PostmanRuntime/7.49.1"}
+{"level":"info","message":"::1 - - [12/Dec/2025:12:54:39 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.49.1\"","service":"user-service"}
