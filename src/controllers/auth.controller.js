@@ -90,3 +90,17 @@ export const signIn = async (req, res, next) => {
     next(e);
   }
 };
+
+export const signOut = async (req, res, next) => {
+  try {
+    cookies.clear(res, 'token');
+
+    logger.info('User signed out successfully');
+    res.status(200).json({
+      message: 'User signed out successfully',
+    });
+  } catch (e) {
+    logger.error('Sign out error', e);
+    next(e);
+  }
+};
